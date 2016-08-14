@@ -2,7 +2,7 @@
 
 - [NeoVim](https://neovim.io/doc/user/vim_diff.html#nvim-configuration)
 - [Fish Shell](http://fishshell.com/)
-- (For Mac)[iTerm2](https://www.iterm2.com)
+- (For Mac OS X) [iTerm2](https://www.iterm2.com)
 
 ## Dotfile Folks
 
