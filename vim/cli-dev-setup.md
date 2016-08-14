@@ -18,4 +18,5 @@ Set fish as default shell:
 ## Dotfile Folks
 
 - https://github.com/mhartington/dotfiles
+  - https://github.com/mhartington/oceanic-next-iterm 
 - https://github.com/Olical/dotfiles
