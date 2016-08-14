@@ -11,6 +11,7 @@ Get iTerm2:
 http://www.iterm2.com/
 
 Set fish as default shell:
+
 1. Add `/usr/local/bin/fish` to `/etc/shells`
 2. Run: `chsh -s /usr/local/bin/fish`
 
