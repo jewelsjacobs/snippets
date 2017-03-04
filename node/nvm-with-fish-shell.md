@@ -1,3 +1,3 @@
 # NVM fish wrapper
 
-https://github.com/passcod/nvm-fish-wrapper
+https://github.com/edc/bass
