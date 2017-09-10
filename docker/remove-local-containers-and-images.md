@@ -1,10 +1,14 @@
 # Remove unused Docker containers and images
 
-## Delete Containers
+## Stop all containers
+
+`docker ps -q -a | xargs docker stop`
+
+## Delete all containers
 
 `docker ps -q -a | xargs docker rm`
 
-## Remove Images
+## Remove all images
 
 Another way of removing all images is:
 
